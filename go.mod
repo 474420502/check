@@ -1,3 +1,3 @@
 module github.com/474420502/check
 
-go 1.18
+go 1.17
